@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mH9NpOlYgJX4RQy70UNFNU74cDdKTZURePgY0+aOfye+qMZr3ZlyEUuqV3FhERygps29te0/Hph2/IUxJbZzwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\razib\\myDev\\github\\DotNetWebApp\\DotNetWebApp\\DotNetWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\razib\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
